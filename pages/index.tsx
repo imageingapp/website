@@ -24,11 +24,9 @@ const Home: NextPage = () => {
               height={200}
             />
             <p className="py-6">
-              some app to do with images, i wasn't given info. (request changes
-              for what i gotta replace here)
+              Imageing is a modern image sharing app for Android and iOS. Like ShareX, it allows you to edit, upload and share images or screenshots to a host of your choice.
             </p>
-            {/** request changes for what i gotta replace here */}
-            <button className="btn btn-primary">downbad</button>{" "}
+            <button className="btn btn-primary">Download</button>
           </div>
         </div>
       </div>
