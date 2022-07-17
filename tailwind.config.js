@@ -20,7 +20,7 @@ module.exports = {
   daisyui: {
     themes: [
       {
-        evie: {
+        imageing: {
           primary: "#c274d8",
           secondary: "#748ad8",
           accent: "#eb459e",
