@@ -1,15 +1,30 @@
-import { LightningBoltIcon, PencilIcon } from "@heroicons/react/outline";
+import {
+  CameraIcon,
+  PencilIcon,
+  ServerIcon,
+  ViewListIcon
+} from "@heroicons/react/outline";
 
 const features = [
   {
-    name: "some feature",
-    description: <>request changesssssssssssssssssss</>,
-    icon: LightningBoltIcon
+    name: "Huge variety of hosts",
+    description: <>You can choose from a huge variety of hosts</>,
+    icon: ServerIcon
   },
   {
-    name: "another feature",
-    description: <>request changesssssssssssssssssss</>,
+    name: "Screenshot intercept",
+    description: <>You can intercept the screenshot of your choice</>,
+    icon: CameraIcon
+  },
+  {
+    name: "Image editing prior to uploading",
+    description: <>You can edit the image before uploading</>,
     icon: PencilIcon
+  },
+  {
+    name: "Upload History",
+    description: <>You can see the history of your uploads</>,
+    icon: ViewListIcon
   }
 ];
 
@@ -22,7 +37,7 @@ export default function FeatureGrid() {
             Features
           </p>
           <p className="mt-4 max-w-2xl text-xl text-gray-400 lg:mx-auto">
-            request changes here for whatever you want to be the sub
+            Imageing is a modern image sharing app for Android and iOS.
           </p>
         </div>
 
