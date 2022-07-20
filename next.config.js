@@ -8,10 +8,5 @@ module.exports = {
   },
   async redirects() {
     return redirects;
-  },
-  env: {
-    API_URL: process.env.API_URL,
-    CLIENT_ID: process.env.CLIENT_ID,
-    LIVE_URL: process.env.LIVE_URL
   }
 };
