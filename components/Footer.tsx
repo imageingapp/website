@@ -4,11 +4,11 @@ export default function Footer() {
   const product = [
     {
       label: "App Store",
-      href: "balls"
+      href: "#"
     },
     {
       label: "Play Store",
-      href: "balls v2"
+	  href: "https://play.google.com/store/apps/details?id=org.imageing.app"
     }
   ];
 

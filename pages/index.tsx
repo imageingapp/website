@@ -10,7 +10,7 @@ const Home: NextPage = () => {
         title="Imageing"
         url="https://imageing.org/"
         image="https://imageing.org/assets/Mark.png"
-        description="request changes here too!"
+		description="Imageing is a modern image sharing app for Android and iOS. Like ShareX, it allows you to edit, upload and share images or screenshots to a host of your choice."
       />
 
       <div className="hero">
@@ -26,7 +26,7 @@ const Home: NextPage = () => {
             <p className="py-6">
               Imageing is a modern image sharing app for Android and iOS. Like ShareX, it allows you to edit, upload and share images or screenshots to a host of your choice.
             </p>
-            <button className="btn btn-primary">Download</button>
+            <button className="btn btn-primary btn-disabled">Download</button>
           </div>
         </div>
       </div>
