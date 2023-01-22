@@ -22,7 +22,7 @@ export default function Footer() {
       href: "/terms"
     },
     {
-      label: "Imageing Community",
+      label: "Imageing Discord",
       href: "https://imageing.org/discord"
     }
   ];
