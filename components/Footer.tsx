@@ -29,7 +29,7 @@ export default function Footer() {
 
   return (
     <>
-      <footer className="footer p-10 bg-base-300 text-base-content">
+	  <footer className="footer justify-center p-10 bg-base-300 text-base-content">
         <div>
           <span className="footer-title">Product</span>
           {product.map((product) => (
