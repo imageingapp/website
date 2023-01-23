@@ -37,7 +37,7 @@ export default function FeatureGrid() {
             Features
           </p>
           <p className="mt-4 max-w-2xl text-xl text-gray-400 lg:mx-auto">
-            Imageing is a modern image sharing app for Android and iOS.
+            Imageing is a modern image sharing app for Android.
           </p>
         </div>
 

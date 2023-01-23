@@ -3,10 +3,6 @@ import Link from "next/link";
 export default function Footer() {
   const product = [
     {
-      label: "App Store",
-      href: "#"
-    },
-    {
       label: "Play Store",
 	  href: "https://play.google.com/store/apps/details?id=org.imageing.app"
     }
