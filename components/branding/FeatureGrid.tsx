@@ -1,8 +1,8 @@
 import {
-  CameraIcon,
   PencilIcon,
   ServerIcon,
-  ViewListIcon
+  ViewListIcon,
+  DocumentDuplicateIcon
 } from "@heroicons/react/outline";
 
 const features = [
@@ -12,9 +12,9 @@ const features = [
     icon: ServerIcon
   },
   {
-    name: "Screenshot intercept",
-    description: <>You can intercept the screenshot of your choice</>,
-    icon: CameraIcon
+    name: "No quality loss",
+    description: <>Your images will always stay in the same quality</>,
+	icon: DocumentDuplicateIcon
   },
   {
     name: "Image editing prior to uploading",
