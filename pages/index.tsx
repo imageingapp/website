@@ -10,7 +10,7 @@ const Home: NextPage = () => {
         title="imageing"
         url="https://imageing.org/"
         image="https://imageing.org/assets/Mark.png"
-		description="'imageing' is a modern image sharing app for Android. Like ShareX, it allows you to edit, upload and share images or screenshots to a host of your choice."
+		description="&apos;imageing&apos; is a modern image sharing app for Android. Like ShareX, it allows you to edit, upload and share images or screenshots to a host of your choice."
       />
 
       <div className="hero">
@@ -24,7 +24,7 @@ const Home: NextPage = () => {
               height={200}
             />
             <p className="py-6">
-              'imageing' is a modern image sharing app for Android. Like ShareX, it allows you to edit, upload and share images or screenshots to a host of your choice.
+              &apos;imageing&apos; is a modern image sharing app for Android. Like ShareX, it allows you to edit, upload and share images or screenshots to a host of your choice.
             </p>
 		    <button className="btn btn-primary btn-disabled">Download</button>
 			<a href="https://discord.gg/VvNWnXD6AY" className="btn btn-secondary ml-5">Apply as Tester</a>
