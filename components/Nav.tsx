@@ -7,7 +7,7 @@ export default function Nav() {
     <div className="navbar bg-base-100">
       <div className="navbar-center">
         <Link href="/">
-          <a className="btn btn-ghost normal-case text-xl">Imageing</a>
+          <a className="btn btn-ghost normal-case text-xl">&apos;imageing&apos;</a>
         </Link>
       </div>
     </div>
