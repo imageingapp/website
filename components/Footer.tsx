@@ -18,7 +18,7 @@ export default function Footer() {
       href: "/terms"
     },
     {
-      label: "'imageing' Discord",
+      label: "&apos;imageing&apos; Discord",
       href: "https://imageing.org/discord"
     }
   ];
